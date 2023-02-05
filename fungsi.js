@@ -1,5 +1,3 @@
-console.log("fungsi pertama");
-
 const add = (a,b) => a + b;
 console.log(add(1,2));
 
@@ -11,3 +9,5 @@ console.log(multiplyNumber(2,2));
 
 const divide = (a,b) => a / b;
 console.log(divide(20,2));
+
+console.log(add(5,5));
